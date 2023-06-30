@@ -56,5 +56,5 @@ pub fn main() !void {
     std.debug.print("After  Reverse:\t", .{});
     rev.PrettyPrint();
     std.debug.print("===================\n", .{});
-    runner.ExerciseRunner();
+    try runner.ExerciseRunner();
 }

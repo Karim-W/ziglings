@@ -1,3 +1,4 @@
+const std = @import("std");
 const Ex3 = @import("./003.zig");
 const Ex4 = @import("./004.zig");
 const Ex5 = @import("./005.zig");
@@ -29,7 +30,8 @@ const Ex30 = @import("./030.zig");
 const Ex31 = @import("./031.zig");
 const Ex32 = @import("./032.zig");
 const Ex33 = @import("./033.zig");
-pub fn ExerciseRunner() void {
+const Ex34 = @import("./034.zig");
+pub fn ExerciseRunner() !void {
     Ex3.Ex3();
     Ex4.Ex();
     Ex5.Ex();
@@ -61,4 +63,5 @@ pub fn ExerciseRunner() void {
     Ex31.Ex();
     Ex32.Ex();
     Ex33.Ex();
+    try Ex34.Ex();
 }
