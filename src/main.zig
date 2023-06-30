@@ -1,4 +1,5 @@
 const std = @import("std");
+const runner = @import("./execises/runner.zig");
 
 const List = @import("./LinkedLists/LL.zig");
 
@@ -54,4 +55,6 @@ pub fn main() !void {
     const rev = try list.Reverse();
     std.debug.print("After  Reverse:\t", .{});
     rev.PrettyPrint();
+    std.debug.print("===================\n", .{});
+    runner.ExerciseRunner();
 }
