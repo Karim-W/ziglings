@@ -39,6 +39,7 @@ const Ex39 = @import("./039.zig");
 const Ex40 = @import("./040.zig");
 const Ex41 = @import("./041.zig");
 const Ex42 = @import("./042.zig");
+const Ex43 = @import("./043.zig");
 pub fn ExerciseRunner() !void {
     Ex3.Ex3();
     Ex4.Ex();
@@ -80,4 +81,5 @@ pub fn ExerciseRunner() !void {
     Ex40.Ex();
     Ex41.Ex();
     Ex42.Ex();
+    Ex43.Ex();
 }
