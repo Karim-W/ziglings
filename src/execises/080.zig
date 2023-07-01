@@ -40,7 +40,7 @@ fn Circle(comptime T: type) type {
 }
 
 pub fn Ex() void {
-    print("======Exz======\n", .{});
+    print("======Ex80======\n", .{});
     //
     // See if you can complete these two variable initialization
     // expressions to create instances of circle struct types

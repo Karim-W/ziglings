@@ -65,7 +65,7 @@
 const print = @import("std").debug.print;
 
 pub fn Ex() void {
-    print("======Exz======\n", .{});
+    print("======Ex61======\n", .{});
     var letter: u8 = 'A';
 
     const my_letter: ?*[1]u8 = &letter;
