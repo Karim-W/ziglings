@@ -21,6 +21,10 @@ All notable changes to this project will be documented in this file.
 
 - Added ex 64,65
 
+### C
+
+- Added ex 93,94
+
 ### Coercion
 
 - Added ex 61
