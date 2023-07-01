@@ -89,6 +89,8 @@ const Ex89 = @import("./089.zig");
 const Ex90 = @import("./090.zig");
 const Ex91 = @import("./091.zig");
 const Ex92 = @import("./092.zig");
+const Ex93 = @import("./093.zig");
+const Ex94 = @import("./094.zig");
 pub fn ExerciseRunner() !void {
     Ex3.Ex3();
     Ex4.Ex();
@@ -180,4 +182,6 @@ pub fn ExerciseRunner() !void {
     // Ex90.Ex();
     // Ex91.Ex();
     try Ex92.Ex();
+    Ex93.Ex();
+    try Ex94.Ex();
 }
