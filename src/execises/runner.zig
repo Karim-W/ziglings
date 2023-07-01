@@ -80,6 +80,14 @@ const Ex80 = @import("./080.zig");
 const Ex81 = @import("./081.zig");
 const Ex82 = @import("./082.zig");
 const Ex83 = @import("./083.zig");
+const Ex84 = @import("./084.zig");
+const Ex85 = @import("./085.zig");
+const Ex86 = @import("./086.zig");
+const Ex87 = @import("./087.zig");
+const Ex88 = @import("./088.zig");
+const Ex89 = @import("./089.zig");
+const Ex90 = @import("./090.zig");
+const Ex91 = @import("./091.zig");
 pub fn ExerciseRunner() !void {
     Ex3.Ex3();
     Ex4.Ex();
@@ -162,4 +170,12 @@ pub fn ExerciseRunner() !void {
     Ex81.Ex();
     Ex82.Ex();
     Ex83.Ex();
+    Ex84.Ex();
+    Ex85.Ex();
+    Ex86.Ex();
+    Ex87.Ex();
+    Ex88.Ex();
+    Ex89.Ex();
+    Ex90.Ex();
+    Ex91.Ex();
 }
