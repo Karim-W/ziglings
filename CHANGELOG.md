@@ -87,6 +87,10 @@ All notable changes to this project will be documented in this file.
 - Q7 added ex 58
 - Quiz 8 in ex 75
 
+### Sentinels
+
+- Added ex 76,77,78
+
 ### Unions
 
 - Added ex 55,56,57
