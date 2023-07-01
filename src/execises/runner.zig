@@ -60,6 +60,17 @@ const Ex60 = @import("./060.zig");
 const Ex61 = @import("./061.zig");
 const Ex62 = @import("./062.zig");
 const Ex63 = @import("./063.zig");
+const Ex64 = @import("./064.zig");
+const Ex65 = @import("./065.zig");
+const Ex66 = @import("./066.zig");
+const Ex67 = @import("./067.zig");
+const Ex68 = @import("./068.zig");
+const Ex69 = @import("./069.zig");
+const Ex70 = @import("./070.zig");
+const Ex71 = @import("./071.zig");
+const Ex72 = @import("./072.zig");
+const Ex73 = @import("./073.zig");
+const Ex74 = @import("./074.zig");
 pub fn ExerciseRunner() !void {
     Ex3.Ex3();
     Ex4.Ex();
@@ -122,4 +133,15 @@ pub fn ExerciseRunner() !void {
     Ex61.Ex();
     Ex62.Ex();
     Ex63.Ex();
+    Ex64.Ex();
+    Ex65.Ex();
+    Ex66.Ex();
+    Ex67.Ex();
+    Ex68.Ex();
+    Ex69.Ex();
+    Ex70.Ex();
+    Ex71.Ex();
+    Ex72.Ex();
+    Ex73.Ex();
+    Ex74.Ex();
 }
