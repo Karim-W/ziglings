@@ -85,6 +85,7 @@ All notable changes to this project will be documented in this file.
 ### Quiz
 
 - Q7 added ex 58
+- Quiz 8 in ex 75
 
 ### Unions
 
