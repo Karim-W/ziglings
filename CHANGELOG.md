@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### AnonLists
+
+- Added ex 83
+
 ### Builtin
 
 - Added ex 64,65
