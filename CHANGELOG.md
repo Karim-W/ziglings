@@ -87,6 +87,10 @@ All notable changes to this project will be documented in this file.
 
 - Added ex 59
 
+### Interfaces
+
+- Added ex 92
+
 ### Labels
 
 - Added ex 63
