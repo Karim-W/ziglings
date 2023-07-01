@@ -8,6 +8,15 @@ All notable changes to this project will be documented in this file.
 
 - Added ex 83
 
+### Async
+
+- Added ex 84,85,86,87,88,89,90,91
+
+### Bug Fixes
+
+- Refactored compile time inference of float conv for async issues
+- Printed correct exercise number
+
 ### Builtin
 
 - Added ex 64,65
